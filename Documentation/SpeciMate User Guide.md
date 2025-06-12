@@ -482,7 +482,7 @@ The Service definition screens are as below:
 
 ### OCR Service Definition
 
-![](pix/screen-ocr-service.jpg)
+![](pix/screen-service-ocr.jpg)
 
 Figure 15 OCR service definition screen. This is the Google Vision OCR service.
 
