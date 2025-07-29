@@ -3,14 +3,15 @@ Collaborative Collections Metadata Extraction Tool – SpeciMate
 
 # Introduction
 
-This document describes how to set up and use the Specimen Collections Metadata Extraction Tool (SpeciMate) to process digitised specimen images and extract the label metadata into named columns (or entities). These can then be checked and edited in a data curation process before exporting a complete dataset in tabular format, ready for further data quality curation and importing into your collection database.
+This document describes how to set up and use **SpeciMate** – the Specimen Collections Metadata Extraction Tool – to process digitised specimen images and extract the label metadata into named columns (or entities). These can then be checked and edited in a data curation process before exporting a complete dataset in tabular format, ready for further data quality curation and importing into your collection database.
 
 # Quick Start Guide
 
 ## Installation
 
-* Download the application as a compressed file (.zip).
-* Extract the application data to a location with write permissions.
+* Download the SpeciMate.zip application as a compressed file (.zip) from the /binaries folder according to your platform.
+* Extract the application to a location with write permissions.
+* Copy the contents of the /Data folder and other data (see platform details below) to the same location as the application.
 
 ## Basic Usage
 
@@ -571,7 +572,7 @@ Table 5 Error messages and descriptions.
 
 Developer: Alan Stenhouse, NCMI, CSIRO
 
-Email: Alan.Stenhouse@csiro.au
+Email: Alan.Stenhouse at csiro.au
 
 # Appendices
 
