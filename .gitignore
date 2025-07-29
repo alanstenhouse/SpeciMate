@@ -1,0 +1,38 @@
+# LiveCode specific
+*.livecode~
+*.livecodescript~
+*.behavior~
+
+# LiveCode build artifacts, if any
+standalone/
+build/
+dist/
+
+# LiveCode IDE files
+*.livecode.prefs
+
+# LiveCode temporary files
+*.tmp
+*.temp
+
+# LiveCode plugin cache
+.livecode_plugins/
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+
+# General development
+*.log
+*.tmp
+*~
+
+# Environment files
+.env
+.env.local
+.env.production
